@@ -1,2 +1,2 @@
 # textfader
-Port do componente textfader para o lazarus.
+Port do componente TextFader para Lazarus.
